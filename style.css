@@ -26,9 +26,7 @@ h2 {
 }
 
 ul {
-  border-top: solid;
-  
-  border-color: rgb(102, 101, 101);
+  border-top: 1px solid rgb(102, 101, 101);
     padding: 30px;
     text-align: center;
 }
@@ -41,7 +39,7 @@ ul {
 #icon {
     width: 30px;
     height: 30px;
-    padding-left: 10px;
+    padding-left: 20px;
     
 
 }
