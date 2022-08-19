@@ -7,9 +7,14 @@ body {
 
 main {
     text-align: justify;
+ 
 }
 
-   
+  img{
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+  } 
       
 
 #titulo {
@@ -21,16 +26,28 @@ h2 {
 }
 
 ul {
+  border-top: solid;
+  
+  border-color: rgb(102, 101, 101);
+    padding: 30px;
     text-align: center;
 }
 
 #icones {
     display: inline-block;
-
+    
 }
 
 #icon {
     width: 30px;
     height: 30px;
+    padding-left: 10px;
+    
 
+}
+footer{
+   
+    margin-top: 50px;
+   
+    
 }
